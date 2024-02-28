@@ -13,12 +13,18 @@ These objectives are designed to provide actionable insights for filmmakers, pro
 * seaborn
 * scikit-learn
 ## Installation
-If pip not found on your computer please refer to this website https://pip.pypa.io/en/stable/installation/. Then, run pip install pandas numpy matplotlib seaborn scikit-learn to download the necessary dependencies
+If pip not found on your computer please refer to this website https://pip.pypa.io/en/stable/installation/. Then, `run pip install pandas numpy matplotlib seaborn scikit-learn` to download the necessary dependencies
 ## Usage
-If you are using Vs code, you can click run all now to view all the outputs.
+To use this Jupyter Notebook, you will need to have Jupyter installed on your system. If you do not have Jupyter installed, you can install it using pip:
+
+```bash
+pip install notebook
+```
 ## Contribution
 This project is currently maintained by me(linkechen) only.
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the license.
 ## Contact
 If you have any questions or need support, please contact a7783222520@gmail.com.
+## Demo Video
+[Watch the demo video on YouTube](https://youtu.be/lWIefzIcqyI)
